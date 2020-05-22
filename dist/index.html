@@ -1,0 +1,83 @@
+<!DOCTYPE html><html lang=zh-cmn-Hans><head><meta charset=utf-8><meta http-equiv=X-UA-Compatible content="IE=edge"><meta name=viewport content="width=device-width,initial-scale=1"><link rel=icon href=/cotton/dist/logo.png><script src=https://ssl.captcha.qq.com/TCaptcha.js></script><title></title><style>#loading-mask {
+        position: fixed;
+        left: 0;
+        top: 0;
+        height: 100%;
+        width: 100%;
+        background: #fff;
+        user-select: none;
+        z-index: 9999;
+        overflow: hidden;
+      }
+      .loading-wrapper {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -100%);
+      }
+      .loading-dot {
+        animation: antRotate 1.2s infinite linear;
+        transform: rotate(45deg);
+        position: relative;
+        display: inline-block;
+        font-size: 64px;
+        width: 64px;
+        height: 64px;
+        box-sizing: border-box;
+      }
+      .loading-dot i {
+        width: 22px;
+        height: 22px;
+        position: absolute;
+        display: block;
+        background-color: #1890ff;
+        border-radius: 100%;
+        transform: scale(0.75);
+        transform-origin: 50% 50%;
+        opacity: 0.3;
+        animation: antSpinMove 1s infinite linear alternate;
+      }
+      .loading-dot i:nth-child(1) {
+        top: 0;
+        left: 0;
+      }
+      .loading-dot i:nth-child(2) {
+        top: 0;
+        right: 0;
+        -webkit-animation-delay: 0.4s;
+        animation-delay: 0.4s;
+      }
+      .loading-dot i:nth-child(3) {
+        right: 0;
+        bottom: 0;
+        -webkit-animation-delay: 0.8s;
+        animation-delay: 0.8s;
+      }
+      .loading-dot i:nth-child(4) {
+        bottom: 0;
+        left: 0;
+        -webkit-animation-delay: 1.2s;
+        animation-delay: 1.2s;
+      }
+      @keyframes antRotate {
+        to {
+          -webkit-transform: rotate(405deg);
+          transform: rotate(405deg);
+        }
+      }
+      @-webkit-keyframes antRotate {
+        to {
+          -webkit-transform: rotate(405deg);
+          transform: rotate(405deg);
+        }
+      }
+      @keyframes antSpinMove {
+        to {
+          opacity: 1;
+        }
+      }
+      @-webkit-keyframes antSpinMove {
+        to {
+          opacity: 1;
+        }
+      }</style><link href=/cotton/dist/css/chunk-28d3ba61.73f9213a.css rel=prefetch><link href=/cotton/dist/css/chunk-dc2cf6ae.459d58e0.css rel=prefetch><link href=/cotton/dist/css/dataAnalysis.8e0ad2b3.css rel=prefetch><link href=/cotton/dist/css/report.48d23d11.css rel=prefetch><link href=/cotton/dist/js/chunk-28d3ba61.5a263f34.js rel=prefetch><link href=/cotton/dist/js/chunk-2d0a557d.09e76a09.js rel=prefetch><link href=/cotton/dist/js/chunk-3b30faa8.c4319342.js rel=prefetch><link href=/cotton/dist/js/chunk-dc2cf6ae.fee7011d.js rel=prefetch><link href=/cotton/dist/js/chunk-e1340b6a.0f5c813c.js rel=prefetch><link href=/cotton/dist/js/dataAnalysis.12705209.js rel=prefetch><link href=/cotton/dist/js/fail.4a750108.js rel=prefetch><link href=/cotton/dist/js/report.bde13f0f.js rel=prefetch><link href=/cotton/dist/js/vendors~dataAnalysis.c4a1e443.js rel=prefetch><link href=/cotton/dist/js/vendors~report.52b06eef.js rel=prefetch><link href=/cotton/dist/css/app.e928f3c5.css rel=preload as=style><link href=/cotton/dist/css/chunk-antvUI.3720bb63.css rel=preload as=style><link href=/cotton/dist/css/chunk-libs.6dc57fe0.css rel=preload as=style><link href=/cotton/dist/js/app.9b33c00a.js rel=preload as=script><link href=/cotton/dist/js/chunk-antvUI.474c5e23.js rel=preload as=script><link href=/cotton/dist/js/chunk-libs.8e1717b7.js rel=preload as=script><link href=/cotton/dist/css/chunk-antvUI.3720bb63.css rel=stylesheet><link href=/cotton/dist/css/chunk-libs.6dc57fe0.css rel=stylesheet><link href=/cotton/dist/css/app.e928f3c5.css rel=stylesheet></head><body><noscript><strong>We're sorry but vue-antd-pro doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=app><div id=loading-mask><div class=loading-wrapper><span class="loading-dot loading-dot-spin"><i></i><i></i><i></i><i></i></span></div></div></div><script src=/cotton/dist/js/chunk-antvUI.474c5e23.js></script><script src=/cotton/dist/js/chunk-libs.8e1717b7.js></script><script src=/cotton/dist/js/app.9b33c00a.js></script></body></html>

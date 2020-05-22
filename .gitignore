@@ -1,9 +1,5 @@
 .DS_Store
 node_modules
-dist
-cotton
-cotton.zip
-cotton.rar
 
 # local env files
 .env.local
