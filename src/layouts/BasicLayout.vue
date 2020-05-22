@@ -5,7 +5,7 @@
         <a-col :md="22" :xl="20">
           <div class="vui-flex vui-flex-middle">
             <div class="vui-flex-item">
-              <Logo />
+              <!-- <Logo /> -->
             </div>
             <UserMenu />
           </div>
@@ -30,14 +30,14 @@
 
 <script>
 
-import { Logo } from '@/components'
+// import { Logo } from '@/components'
 import RouteView from './RouteView'
 import Nav from '@/components/Nav'
 import UserMenu from '@/components/UserMenu'
 export default {
   name: 'BasicLayout',
   components: {
-    Logo,
+    // Logo,
     RouteView,
     Nav,
     UserMenu
