@@ -10,7 +10,7 @@
  *
  */
 export default {
-  title: '湖北省棉花种植信息调度平台',
+  title: '某花信息调度平台',
   primaryColor: '#52C41A',
   cookieExpires: 1,
   api: process.env.VUE_APP_BASE_API,

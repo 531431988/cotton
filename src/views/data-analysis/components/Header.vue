@@ -2,7 +2,7 @@
   <div class="header">
     <Animated name="fadeInDown">
       <img src="@/assets/data-analysis-home-icon.png" class="home" @click="$router.push('/')" />
-      <img src="@/assets/data-analysis-logo-text.png" class="logo" />
+      <!-- <img src="@/assets/data-analysis-logo-text.png" class="logo" /> -->
       <img
         src="@/assets/query-statistics.png"
         class="query"
