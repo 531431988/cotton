@@ -1,0 +1,21 @@
+<svg id="f8615527-6134-4265-a3aa-cef25ee90f59" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="aebb1aac-880a-434f-851c-1e40d75681f0" data-name="未命名的渐变" x1="113.03" y1="436.78" x2="113.03" y2="435.78" gradientTransform="matrix(47, 0, 0, -47, -5288.39, 20529.23)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#25b1b5" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#10797e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ecd742b7-e2bf-4438-88d0-4de576613c00" data-name="未命名的渐变 2" x1="111.78" y1="432.94" x2="111.78" y2="431.94" gradientTransform="matrix(32, 0, 0, -32, -3553.86, 13861.22)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#03f0b4"/>
+      <stop offset="1" stop-color="#07f9db"/>
+    </linearGradient>
+  </defs>
+  <title>Repeat-Group</title>
+  <g id="aa74a734-91f4-40af-a90d-a89958c0855d" data-name="编组-16">
+    <rect x="0.5" y="0.5" width="47" height="47" style="stroke: #10797e;stroke-opacity: 0.5190395712852478;opacity: 0.6139881014823914;isolation: isolate;fill: url(#aebb1aac-880a-434f-851c-1e40d75681f0)"/>
+    <g id="a7f7a1da-de70-4fbe-a253-1f97676b03ee" data-name="编组">
+      <g id="bcd8b285-7741-4862-bec6-bc4e3cd55251" data-name="形状">
+        <path d="M23,12.7a3.9,3.9,0,0,0-3.9,3.8A3.9,3.9,0,0,0,23,20.3a3.8,3.8,0,0,0,0-7.6Zm0,18.2s-9.1-10-9.1-14.9A9.1,9.1,0,0,1,32,16C32,20.9,23,30.9,23,30.9Zm10.8-4,3.1-1v7.9s-4.7,1.8-8.2,2.8L16.5,33.2l-7,2.7V28.1l3-.8c0-.5-.1-1.8-.1-2.3L7.2,26.2V39.1l1.7-.6,7.6-2.8,12.2,3.4,10.5-3.4V22.8L34,24.3c-.1.5-.1,1.7-.2,2.6Z" transform="translate(-0.2 -0.1)" style="fill: url(#ecd742b7-e2bf-4438-88d0-4de576613c00)"/>
+      </g>
+    </g>
+  </g>
+</svg>

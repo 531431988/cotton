@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="454px" height="307px" viewBox="0 0 454 307" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>边框-new</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="2.84217094e-14" width="454" height="306.666667"></rect>
+        <filter x="-2.1%" y="-3.1%" width="104.2%" height="106.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="3" operator="erode" in="SourceAlpha" result="shadowSpreadInner1"></feMorphology>
+            <feGaussianBlur stdDeviation="8" in="shadowSpreadInner1" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.0720482771   0 0 0 0 0.432487788   0 0 0 0 0.474892437  0 0 0 0.559549825 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="智慧农业大数据平台" transform="translate(-20.000000, -89.000000)">
+            <g id="产量、销量变化趋势" transform="translate(20.000000, 89.000000)">
+                <g id="边框-new">
+                    <g id="编组-6">
+                        <g>
+                            <g id="矩形">
+                                <use fill="#013042" fill-rule="evenodd" xlink:href="#path-1"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            </g>
+                            <path d="M4,0 L4,1 L1,1 L1,4 L0,4 L0,0 L4,0 Z" id="形状结合" fill="#67FAF6"></path>
+                            <path d="M4,303 L4,304 L1,304 L1,307 L0,307 L0,303 L4,303 Z" id="形状结合" fill="#67FAF6" transform="translate(2.000000, 305.000000) scale(1, -1) translate(-2.000000, -305.000000) "></path>
+                            <path d="M454,0 L454,1 L451,1 L451,4 L450,4 L450,0 L454,0 Z" id="形状结合" fill="#67FAF6" transform="translate(452.000000, 2.000000) scale(-1, 1) translate(-452.000000, -2.000000) "></path>
+                            <path d="M454,303 L454,304 L451,304 L451,307 L450,307 L450,303 L454,303 Z" id="形状结合" fill="#67FAF6" transform="translate(452.000000, 305.000000) scale(-1, -1) translate(-452.000000, -305.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg id="ae7afdf5-6a4b-4b0b-ad86-bf8ee7d3d4a1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48" viewBox="0 0 48 48">
+  <defs>
+    <linearGradient id="e2c30992-e359-49ff-9ff5-fce3696ec07d" data-name="未命名的渐变 3" x1="108.48" y1="436.78" x2="108.48" y2="435.78" gradientTransform="matrix(47, 0, 0, -47, -5074.39, 20529.23)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#25b1b5" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#10797e" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="a3a2df36-4958-436c-adbd-4a9c3c23b6b9" data-name="未命名的渐变 4" x1="81.79" y1="412.89" x2="81.79" y2="411.89" gradientTransform="matrix(10, 0, 0, -12, -794.7, 4972.76)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#03f0b4"/>
+      <stop offset="1" stop-color="#07f9db"/>
+    </linearGradient>
+    <linearGradient id="e7d7d022-18c1-4853-a8e2-4fe681c6be95" data-name="未命名的渐变 5" x1="106.77" y1="433.97" x2="106.77" y2="432.97" gradientTransform="matrix(38, 0, 0, -35, -4031, 15196.14)" xlink:href="#a3a2df36-4958-436c-adbd-4a9c3c23b6b9"/>
+  </defs>
+  <title>Repeat-Group</title>
+  <g>
+    <rect x="0.5" y="0.5" width="47" height="47" style="stroke: #10797e;stroke-opacity: 0.5190395712852478;opacity: 0.6139881014823914;isolation: isolate;fill: url(#e2c30992-e359-49ff-9ff5-fce3696ec07d)"/>
+    <g>
+      <path d="M27,26l-8.1,2a1.1,1.1,0,0,0-.7,1.3,1,1,0,0,0,1,.8h.2l8-2.1a1.1,1.1,0,0,0,.8-1.3A1,1,0,0,0,27,26Zm0-4.2-8.1,2.1a1.1,1.1,0,0,0-.7,1.3,1,1,0,0,0,1,.7h.2l8-2.1a1,1,0,0,0,.8-1.2A1.1,1.1,0,0,0,27,21.8Zm0-3.7-8.1,2.1a1,1,0,0,0-.7,1.2,1,1,0,0,0,1,.8h.2l8-2.1a1,1,0,0,0,.8-1.2A1.1,1.1,0,0,0,27,18.1Z" transform="translate(-0.2 -0.1)" style="fill: url(#a3a2df36-4958-436c-adbd-4a9c3c23b6b9)"/>
+      <path d="M44.7,35.6l-3-3.2a1.7,1.7,0,0,0-1.2-.5h-3V12.3a1.6,1.6,0,0,0-.6-1.3L32.7,7.5A1.7,1.7,0,0,0,31,7.2L17.7,12a1.7,1.7,0,0,0-1.1,1.6v1.1a.9.9,0,0,0,1,1h.1L14.1,17A1.7,1.7,0,0,0,13,18.6V31.9H11.8a1.7,1.7,0,0,0-1.2.5l-3,3.2a1.9,1.9,0,0,0-.3,1.8,1.8,1.8,0,0,0,1.6,1h7.4A13.3,13.3,0,0,1,24,40.9l1.4.9a1.4,1.4,0,0,0,.9.3,1.7,1.7,0,0,0,1-.3l1.4-1a14,14,0,0,1,7.7-2.4h7.1a1.8,1.8,0,0,0,1.6-1A1.7,1.7,0,0,0,44.7,35.6ZM15,18.8l12.9-4.7,4,3.3V33.8L15,33ZM36.4,36.4a15.2,15.2,0,0,0-8.8,2.7l-1.3.9-1.1-.8a15.9,15.9,0,0,0-8.9-2.8H9.6L12,33.9h1.1A1.6,1.6,0,0,0,14.6,35l17.6.9h0a1.7,1.7,0,0,0,1.2-.5,1.8,1.8,0,0,0,.5-1.2V17.3a2,2,0,0,0-.6-1.4L29,12.5a1.5,1.5,0,0,0-1.6-.3l-9.2,3.3a1.2,1.2,0,0,0,.4-.8v-.9L31.5,9.2l4,3.2V34.2a1,1,0,0,0,1,1,.9.9,0,0,0,1-1v-.3h2.9l2.3,2.5Z" transform="translate(-0.2 -0.1)" style="fill: url(#e7d7d022-18c1-4853-a8e2-4fe681c6be95)"/>
+    </g>
+  </g>
+</svg>
